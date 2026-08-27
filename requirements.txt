@@ -1,0 +1,3 @@
+# No external dependencies are required — this project uses only the
+# Python standard library (dataclasses, typing, copy, unittest).
+# Kept here for convention / future extensions.
